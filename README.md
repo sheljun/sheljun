@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Sheljun
 
-<!--
-**sheljun/sheljun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front End Developer specializing in building modern, responsive web interfaces.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Frameworks:** React, Next.js  
+- **Styling:** Tailwind CSS, SCSS  
+- **Tools:** Git, Figma, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Check out my projects below 👇
