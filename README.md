@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sheljun
 
-Front End Developer specializing in building modern, responsive web interfaces.
+A developer with imperfect code and perfect persistence.
 
 ## 🛠 Tech Stack
 <p align="left">
