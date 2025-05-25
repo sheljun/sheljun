@@ -13,7 +13,3 @@ A developer with imperfect code and perfect persistence.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
 </p>
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sheljun)](https://github.com/ryo-ma/github-profile-trophy)
