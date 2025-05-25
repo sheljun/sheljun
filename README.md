@@ -16,4 +16,4 @@ A developer with imperfect code and perfect persistence.
 
 ---
 
-Check out my projects below 👇
+[![trophy](https://github-profile-trophy.vercel.app/?username=sheljun)](https://github.com/ryo-ma/github-profile-trophy)
