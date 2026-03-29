@@ -27,4 +27,4 @@ A developer with imperfect code and perfect persistence.
 </p>
 
 # Github Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=sheljun)
+![GitHub Streak](https://streak-stats.demolab.com?user=sheljun&theme=tokyonight)
