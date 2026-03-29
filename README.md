@@ -1,6 +1,11 @@
-# 👋 Hi, I'm Sheljun
+# 👋 Hi, I'm Sheljun - a frontend dev who probably spends too much time making things feel right
 
 A developer with imperfect code and perfect persistence.
+
+# About me
+
+- I turn caffeine into things that actually feel good to use.
+- I’m currently open to new opportunities.
 
 ## 🛠 Tech Stack
 <p align="left">
