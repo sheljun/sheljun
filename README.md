@@ -2,13 +2,13 @@
 
 A developer with imperfect code and perfect persistence.
 
-# About me
+## About me
 
 - A frontend dev who probably spends too much time making things feel right.
 - I turn caffeine into things that actually feel good to use.
 - I’m currently open to new opportunities.
 
-# Connect with me
+## Connect with me
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/sheljun/)
 
@@ -26,5 +26,5 @@ A developer with imperfect code and perfect persistence.
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/thirdweb.svg" width="40" />
 </p>
 
-# Github Stats
+## Github Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=sheljun&theme=tokyonight)
