@@ -25,3 +25,6 @@ A developer with imperfect code and perfect persistence.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/thirdweb.svg" width="40" />
 </p>
+
+# Github Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=sheljun)
