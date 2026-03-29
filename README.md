@@ -1,11 +1,16 @@
-# 👋 Hi, I'm Sheljun - a frontend dev who probably spends too much time making things feel right
+# 👋 Hi, I'm Sheljun
 
 A developer with imperfect code and perfect persistence.
 
 # About me
 
+- A frontend dev who probably spends too much time making things feel right.
 - I turn caffeine into things that actually feel good to use.
 - I’m currently open to new opportunities.
+
+# Connect with me
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>](https://your-link.com)
 
 ## 🛠 Tech Stack
 <p align="left">
