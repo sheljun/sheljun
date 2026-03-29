@@ -28,3 +28,6 @@ A developer with imperfect code and perfect persistence.
 
 ## Github Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=sheljun&theme=tokyonight)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
